@@ -1,0 +1,8 @@
+{
+  "name": "Remix JohaApunta",
+  "description": "App de notas y tareas con login SQLite, gestión completa (ver, listar, editar, eliminar, completar) y recordatorios con notificaciones",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
